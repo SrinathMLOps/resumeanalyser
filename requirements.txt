@@ -1,0 +1,7 @@
+python-dotenv
+openai
+chainlit
+azure-core
+azure-ai-documentintelligence
+requests
+numpy
