@@ -20,6 +20,7 @@ An intelligent resume analysis tool that combines Azure Document Intelligence fo
 
 ## 🚀 Quick Start
 
+
 ### 1. Install Dependencies
 
 **Option A: Automatic Installation (Windows)**
@@ -170,5 +171,6 @@ python test_credentials.py
 - Ensure your API keys have the necessary permissions
 
 ## 📝 License
+
 
 This project is for educational and demonstration purposes. Please ensure you comply with Azure service terms and conditions.
